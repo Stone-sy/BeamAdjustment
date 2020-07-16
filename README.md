@@ -14,7 +14,7 @@ BeamAdjustment
 ------
 
 #### 直接运行exe文件 
-    点击BeamAdjustment.exe，稍微等1分钟左右，弹框会显示程序运行进度。程序结果输出到Result文件夹中。
+        点击BeamAdjustment.exe，稍微等1分钟左右，弹框会显示程序运行进度。程序结果输出到Result文件夹中。
 #### 运行源代码 
 1. 安装环境依赖
    ```shell
