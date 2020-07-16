@@ -42,9 +42,9 @@ BeamAdjustment
 文件结构
 ------
 #### BeamAdjustment
-> Data ：存放已知的像点坐标、控制点坐标和相片
-> Result ：存放光束法平差输出结果、精度评定和核线绘制结果
-> BeamAdjustment.py ：源代码
-> BeamAdjustment.exe ：可执行程序
-> requirements.txt ：所需python包及版本
-> Readme.md ：使用须知
+> Data ：存放已知的像点坐标、控制点坐标和相片</br>
+> Result ：存放光束法平差输出结果、精度评定和核线绘制结果</br>
+> BeamAdjustment.py ：源代码</br>
+> BeamAdjustment.exe ：可执行程序</br>
+> requirements.txt ：所需python包及版本</br>
+> Readme.md ：使用须知</br>
